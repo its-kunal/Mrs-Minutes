@@ -1,2 +1,4 @@
 # Mrs-Minutes
-Precision Clock with Marvel's MRs Minutes Theme. Contribute to make it more good.
+Precision Clock with Marvel's MRs Minutes Theme.
+Check your time here
+
